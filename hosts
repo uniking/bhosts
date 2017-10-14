@@ -2,6 +2,8 @@
 127.0.0.1 uniking
 127.0.0.1 uniking-Inspiron-620
 192.168.8.119 www.nas.com
+192.168.8.119 deluge.nas.com
+192.168.8.119 mldonkey.nas.com
 192.168.8.119 nas.com
 192.168.8.119 nas
 127.0.0.1 localhost
@@ -72,3 +74,7 @@
 127.0.0.1 af.alicdn.com
 127.0.0.1 pns.alicdn.com
 127.0.0.1 pre-dc.planet.youku.com
+127.0.0.1 www.qsdfgh.cn
+127.0.0.1 www.mnxiu15.com
+127.0.0.1 bdtg.9377a.com
+127.0.0.1 imgsreview.dftoutiao.com
