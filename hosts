@@ -1,3 +1,5 @@
+#block hosts start
+
 127.0.0.1 uniking
 127.0.0.1 uniking-Inspiron-620
 127.0.0.1 Arch
@@ -267,3 +269,5 @@
 127.0.0.1 wenda.tianya.cn
 127.0.0.1 hunan.tianya.cn
 127.0.0.1 korea.tianya.cn
+
+#block hosts end
