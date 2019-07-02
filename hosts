@@ -9,8 +9,6 @@
 127.0.0.1 static-alias-1.360buyimg.com
 127.0.0.1 imql.360buyimg.com
 127.0.0.1 click.bes.baidu.com
-127.0.0.1 ccc-x.jd.com
-127.0.0.1 ads.csdn.net
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 als.baidu.com
 127.0.0.1 nsclick.baidu.com
@@ -174,11 +172,6 @@
 127.0.0.1 beacons9.gvt3.com
 127.0.0.1 stun.services.mozilla.com
 127.0.0.1 services.mozilla.com
-127.0.0.1 g.csdnimg.cn
-127.0.0.1 avatar.csdn.net
-127.0.0.1 csdnimg.cn
-127.0.0.1 pv.csdn.net
-127.0.0.1 statistic.csdn.net
 127.0.0.1 beacon.tingyun.com
 127.0.0.1 em.baidu.com
 127.0.0.1 yingxiao.baidu.com
@@ -208,7 +201,6 @@
 127.0.0.1 ssp.huayuidc.com
 127.0.0.1 ssp.zhufushuo.com
 127.0.0.1 cnzz.mmstat.com
-127.0.0.1 u-x.jd.com
 127.0.0.1 bu1.duba.com
 127.0.0.1 gslb.qianxun.com
 127.0.0.1 qianxun.com
@@ -225,10 +217,8 @@
 127.0.0.1 img9.360buyimg.com
 127.0.0.1 www.beian.gov.cn
 127.0.0.1 www.miibeian.gov.cn
-127.0.0.1 x.jd.com
 127.0.0.1 p.3.cn
 127.0.0.1 pf.3.cn
-127.0.0.1 ulog.jd.com
 127.0.0.1 bu2.duba.com
 127.0.0.1 static.360buyimg.com
 127.0.0.1 px.3.cn
