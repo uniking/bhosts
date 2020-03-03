@@ -333,4 +333,8 @@
 127.0.0.1 .gvt2.com
 127.0.0.1 .sonelli.com
 127.0.0.1 .crashlytics.com
+127.0.0.1 restapi.amap.com
+127.0.0.1 logs.amap.com
+127.0.0.1 loc.map.baidu.com
+127.0.0.1 apilocate.amap.com
 #block hosts end
