@@ -323,5 +323,11 @@
 127.0.0.1 .umeng.com
 127.0.0.1 .applinzi.com
 127.0.0.1 .gdt.qq.com
+127.0.0.1 .snssdk.com
+127.0.0.1 .map.qq.com
+127.0.0.1 .pstatp.com
+127.0.0.1 .e.qq.com
+127.0.0.1 .bugly.qq.com
+127.0.0.1 .doglobal.net
 
 #block hosts end
