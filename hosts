@@ -330,5 +330,7 @@
 127.0.0.1 .bugly.qq.com
 127.0.0.1 .doglobal.net
 127.0.0.1 .ugdtimg.com
-
+127.0.0.1 .gvt2.com
+127.0.0.1 .sonelli.com
+127.0.0.1 .crashlytics.com
 #block hosts end
