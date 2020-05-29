@@ -337,4 +337,6 @@
 0.0.0.0 logs.amap.com
 0.0.0.0 loc.map.baidu.com
 0.0.0.0 apilocate.amap.com
+0.0.0.0 cdn.bcebos.com
+0.0.0.0 aod-image-material.cdn.bcebos.com
 #block hosts end
