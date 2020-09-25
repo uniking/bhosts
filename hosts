@@ -339,4 +339,8 @@
 0.0.0.0 apilocate.amap.com
 0.0.0.0 cdn.bcebos.com
 0.0.0.0 aod-image-material.cdn.bcebos.com
+0.0.0.0 www.xue51.com
+0.0.0.0 www.kxdw.com
+0.0.0.0 apis.map.qq.com
+0.0.0.0 apikey.map.qq.com
 #block hosts end
