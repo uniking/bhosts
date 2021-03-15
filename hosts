@@ -1,5 +1,12 @@
 #block hosts start
 
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 nbcollectretry.kugou.com
+0.0.0.0 mobilelog.kugou.com
+0.0.0.0 log.stat.kugou.com
+0.0.0.0 ads.service.kugou.com
+0.0.0.0 adserviceretry.kugou.com
+0.0.0.0 adserviceretry.kglink.cn
 0.0.0.0 uniking
 0.0.0.0 uniking-Inspiron-620
 0.0.0.0 Arch
