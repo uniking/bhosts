@@ -1,12 +1,47 @@
 #block hosts start
 
-0.0.0.0 nbcollect.kugou.com
-0.0.0.0 nbcollectretry.kugou.com
-0.0.0.0 mobilelog.kugou.com
-0.0.0.0 log.stat.kugou.com
+#kugou
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 adserviceretry.kugou.com
 0.0.0.0 adserviceretry.kglink.cn
+0.0.0.0 acsing.kglink.cn
+0.0.0.0 acsing.kugou.com
+0.0.0.0 acsing2.kugou.com
+0.0.0.0 acsing3.kugou.com
+0.0.0.0 fxsong.kugou.com
+0.0.0.0 fxsong1.kugou.com
+0.0.0.0 fxsong2.kugou.com
+0.0.0.0 fxsong3.kugou.com
+0.0.0.0 fxsong4.kugou.com
+0.0.0.0 fxsong5.kugou.com
+0.0.0.0 119.28.28.28
+0.0.0.0 log.stat.kugou.com
+0.0.0.0 log.web.kugou.com
+0.0.0.0 mfanxing.kugou.com
+0.0.0.0 m1fanxing.kugou.com
+0.0.0.0 m2fanxing.kugou.com
+0.0.0.0 m3fanxing.kugou.com
+0.0.0.0 m4fanxing.kugou.com
+0.0.0.0 m5fanxing.kugou.com
+0.0.0.0 mobilelog.kugou.com
+0.0.0.0 musiclibretry.kugou.com
+0.0.0.0 musiclibretry.kglink.cn
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 nbcollectretry.kugou.com
+0.0.0.0 nsong.acsing.kugou.com
+0.0.0.0 nsong.acsing.kglink.cn
+0.0.0.0 s1fanxing.kugou.com
+0.0.0.0 s2fanxing.kugou.com
+0.0.0.0 s3fanxing.kugou.com
+0.0.0.0 s4fanxing.kugou.com
+0.0.0.0 s5fanxing.kugou.com
+0.0.0.0 ssong.acsing.kugou.com
+0.0.0.0 serveraddr.service.kugou.com
+
+0.0.0.0 extshort.weixin.qq.com
+0.0.0.0 dns.weixin.qq.com
+
+
 0.0.0.0 uniking
 0.0.0.0 uniking-Inspiron-620
 0.0.0.0 Arch
