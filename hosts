@@ -1,5 +1,14 @@
 #block hosts start
 
+#
+47.105.178.5 natpi.cn
+47.105.178.5 www.natpi.cn
+47.105.178.5 tools.natpi.cn
+47.105.178.5 wiki.natpi.cn
+47.105.178.5 ip.natpi.cn
+47.105.178.5 natpi.cn
+47.105.178.5 natpi.cn
+
 #kugou
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 adserviceretry.kugou.com
