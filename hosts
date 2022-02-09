@@ -9,6 +9,11 @@
 47.105.178.5 natpi.cn
 47.105.178.5 natpi.cn
 
+0.0.0.0 lupic.cdn.bcebos.com
+0.0.0.0 v1.cnzz.com
+0.0.0.0 www.nkscdn.com
+0.0.0.0 api-sao.baidu.com
+
 #kugou
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 adserviceretry.kugou.com
